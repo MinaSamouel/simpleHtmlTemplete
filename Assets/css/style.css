@@ -154,6 +154,12 @@ body img:hover {
 
 .floating-arrows-below {
   position: relative;
+  left: 100px;
+  top: -25px;
+}
+.right-image-arrow{
+  position: relative;
+  left: 40px;
 }
 
 /*---------------------- End section 1  --------------------------------*/
